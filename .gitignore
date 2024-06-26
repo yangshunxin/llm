@@ -1,3 +1,10 @@
+# mac
+.DS_Store
+# run
+run/
+run_cc2vec/
+data/
+result/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
